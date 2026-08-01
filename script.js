@@ -73,7 +73,7 @@
       img.draggable = false;
 
       const scale = rand(0.4, 1.5);
-      const opacity = rand(0.15, 0.5);
+      const opacity = rand(0.3, 0.7);
       // Depth-of-field: smaller scale → more blur (farther away)
       const blur = (1.5 - scale) * 4 + rand(0, 1.5);
       const rotation = rand(-45, 45);
