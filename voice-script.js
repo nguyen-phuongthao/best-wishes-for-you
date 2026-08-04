@@ -32,7 +32,7 @@ const voiceSubtitles = [
   {
     start: 71,
     end: 80,
-    text: "để em hiểu đó là sự đồng hành, là động lực, chứ không bao giờ là gánh nặng. Nhưng không thành, anh rất tiếc.",
+    text: "Để em hiểu đó là sự đồng hành, là động lực, chứ không bao giờ là gánh nặng. Nhưng không thành, anh rất tiếc.",
   },
   {
     start: 81,
@@ -42,7 +42,7 @@ const voiceSubtitles = [
   {
     start: 89,
     end: 101,
-    text: "anh hy vọng vào lúc em nghe được những lời này, em đã đạt được những điều đó, đã tìm thấy ý nghĩa và mục tiêu thực sự cho cuộc đời mình.",
+    text: "Anh hy vọng vào lúc em nghe được những lời này, em đã đạt được những điều đó, đã tìm thấy ý nghĩa và mục tiêu thực sự cho cuộc đời mình.",
   },
   {
     start: 102,
@@ -63,7 +63,7 @@ const voiceSubtitles = [
   {
     start: 132,
     end: 140,
-    text: "anh chúc em một ngày mới tốt lành, một buổi chiều vui vẻ, một giấc ngủ tối thật ngon.",
+    text: "Anh chúc em một ngày mới tốt lành, một buổi chiều vui vẻ, một giấc ngủ tối thật ngon.",
   },
   {
     start: 141,

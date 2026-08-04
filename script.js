@@ -73,7 +73,7 @@
       img.draggable = false;
 
       const scale = rand(0.4, 1.5);
-      const opacity = rand(0.5, 0.7);
+      const opacity = rand(0.9, 0.9);
       // Depth-of-field: smaller scale → more blur (farther away)
       const blur = (1.5 - scale) * 4 + rand(0, 1.5);
       const rotation = rand(-45, 45);
@@ -241,7 +241,7 @@
 
     if (typeof voiceSubtitles !== "undefined") {
       const activeIndex = voiceSubtitles.findIndex(
-        (sub) => currentTime >= sub.start && currentTime <= sub.end
+        (sub) => currentTime >= sub.start && currentTime <= sub.end,
       );
 
       if (activeIndex === -1) {
