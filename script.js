@@ -7,7 +7,7 @@
   "use strict";
 
   // ── Constants ─────────────────────────────────
-  const TARGET_DATE = new Date("2026-05-04T00:00:00+07:00");
+  const TARGET_DATE = new Date("2027-05-04T00:00:00+07:00");
   const STICKER_MIN = 10;
   const STICKER_MAX = 15;
   const BGM_DUCK_VOLUME = 0.15;
